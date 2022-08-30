@@ -1,0 +1,236 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.top-page{
+    width:100%;
+    height:600px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(discordbg.jpeg);
+}
+.logo{
+    text-decoration: none;
+    position: absolute;
+    left:100px;
+    font-size:26px;
+    color:#fff;
+    top:20px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.nav-options{
+    position: relative;
+    float:left;
+    left:350px;
+    list-style-type: none;
+    white-space: 100px;
+    top:20px;
+}
+.options{
+    display: block;
+    padding:10px 20px;
+    color:#fff;
+    text-decoration: none;
+    font-size:16px;
+    font-weight: 500;
+}
+.login-btn{
+    position:relative;
+    margin-left:560px;
+    margin-top:20px;
+    padding:10px 20px;
+    background-color: #fff;
+    border:none;
+    border-radius: 50px;
+}
+.top-header{
+    font-size:56px;
+    color:#fff;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 800;
+    text-align: center;
+    padding-top:100px;
+}
+.top-p{
+    color:#fff;
+    text-align:center;
+    margin-top:50px;
+    font-size:18px;
+    font-weight: 300;
+    line-height: 30px;
+}
+.top-btns{
+    display: flex;
+    justify-content: center;
+    padding:50px;
+}
+.dfw{
+    background-color: #fff;
+    color:#23272a;
+    border:none;
+    font-size:20px;
+    padding:16px 32px;
+    border-radius:50px;
+}
+.dfw:hover{
+    color: #6468b1;
+}
+.npn{
+    text-decoration: none;
+    color:#23272a;
+}
+.odb{
+    margin-left:20px;
+    background-color: #23272a;
+    color:#fff;
+    border:none;
+    font-size:20px;
+    padding:16px 32px;
+    border-radius:28px;
+}
+.sec-lin{
+    display: flex;
+    justify-content: center;
+    gap:100px;
+    padding:130px 70px;
+}
+.sec-head{
+    color:#23272a;
+    font-size:48px;
+    font-weight: 700;
+    line-height:120%;
+}
+.sec-p{
+    color:#23272a;
+    font-size:20px;
+    font-weight: 100;
+    line-height: 30px;
+    word-spacing: 3px;
+}
+.trd-lin{
+    background-color: #f6f6f6;
+}
+.chillin{
+    background-color: #f6f6f6;
+    padding:130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 1.625;
+    font-size: 18px;
+    text-align: center;
+}
+.rdy-jrny{
+    background-image: url(discord5.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top:50px;
+    font-weight: 600;
+    font-size: 32px;
+}
+.lst-box{
+    background-color: #f6f6f6;
+    padding-top:50px;
+}
+.down-btn{
+    text-align:center;
+    padding:16px 32px;
+    background-color:#5865f2;
+    border:none;
+    border-radius:28px;
+    font-size:22px;
+}
+select{
+    background-color: #23272a;
+    border:1px solid #23272a;
+    color:white;
+}
+.footer{
+    background-color: #23272a;
+}
+.block-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: auto;
+    padding:50px;
+}
+
+.lst-li{
+    list-style-type: none;
+    padding-top:10px;
+}
+.lst-a{
+    text-decoration: none;
+    color:#fff;
+    font-size:16px;
+    line-height: 24px;
+    vertical-align: baseline;
+    padding-top:5px;
+}
+.lst-a:hover{
+    text-decoration: underline;
+}
+.lst-h3{
+    color:#4e5be8;
+    font-size:16px;
+    font-weight: 100;
+}
+.lwr{
+    display: flex;
+    justify-content: space-between;
+
+}
+.logo-2{
+    position:relative;
+    padding:50px 60px;
+    justify-content: flex-start;
+    padding-left:100px;
+    font-size:26px;
+    color:#fff;
+    text-decoration: none;
+    margin-top:0px;
+}
+.btn-box{
+    display: block;
+    padding:50px 100px;
+    margin-right:10px;
+}
+.new-btn{
+    margin-right:100px;
+    padding:10px 20px;
+    background-color: #5865f2;
+    border:none;
+    color:#fff;
+    border-radius:28px;
+}
+.bg-h{
+    font-size:32px;
+    line-height: 95%;
+    font-weight: 1000;
+    color:#4e5be8;
+    padding-bottom:30px;
+}
+.sup-app{
+    display: flex;
+}
+.twt{
+    font-size:30px;
+    color:#fff;
+}
+.insta{
+    padding-left:10px;
+    font-size:30px;
+    color:#fff;
+}
+.fb{
+    padding-left:10px;
+    font-size:30px;
+    color:#fff;
+}
+.ytb{
+    padding-left:10px;
+    font-size:30px;
+    color:#fff;
+}
